@@ -4,6 +4,7 @@ permalink: /about/
 header:
 ---
 
-I have a passion for data and I am currently studying a Masters of Data Science at RMIT.
+Currently studying a Masters of Data Science at RMIT.
 I'm developing skills in data visualisation, R programming, Python, machine-learning and more.
-I will share my journey with the hope to inspire anyone with the aspirations of becoming a data scientist.
+
+Here I will share my journey from pleb to data scientist with the hopes to encourage and provide resources to fellow aspirants.
