@@ -113,9 +113,6 @@ author:
   email            : "r.mahoney@hotmail.com.au"
   linkedin         : "rowan-mahoney-251b72123/"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url:  "mailto:r.mahoney@hotmail.com.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
