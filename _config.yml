@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Rowan Mahoney"
-  avatar           : "assets/images/50754137_550013035409676_547692679102726144_n.jpg"
+  avatar           : "/images/50754137_550013035409676_547692679102726144_n.jpg"
   bio              : "Data Science Portfolio"
   location         : "Melbourne, Australia"
   email            : "r.mahoney@hotmail.com.au"
